@@ -1,4 +1,4 @@
 # RELATÓRIOS
  Primeiros Relatórios
  
- Alraçôes feitas.
+ Alraçôe feita.
