@@ -1,3 +1,1 @@
-# RELATÓRIOS
- 
- Alraçôe feita.
+# Verificação de atividades 1
